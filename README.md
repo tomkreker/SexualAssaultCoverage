@@ -1,6 +1,6 @@
 ## Overview
 
-This project explore the coverage of sexual assault cases by Israeli media outlet, in an effort to highlight problematic practices by evaluting stories against the best practices put forward by Kulan/כולן, an Israeli feminist group, and pave a way for stronger condemnation of perpetrators and support of survivors.
+This project explores the coverage of sexual assault cases by Israeli media outlet, in an effort to highlight problematic practices by evaluting stories against the best practices put forward by Kulan/כולן, an Israeli feminist group, and pave a way for stronger condemnation of perpetrators and support of survivors.
 
 ## Project Motivation
 In the past several months, Israel has been going through an epidemic of severe sexual assault cases, domestic violence incidents associated with the long-lasting lockdown measures, and absurdly lenient verdicts for convicted sexual offenders. While there surely have been many such cases earlier, public awareness, reaction, and media coverage in relation to recents events has been heightened. 
